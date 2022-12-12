@@ -7,3 +7,4 @@ plotly
 librosa
 tensorflow-cpu
 bokeh==2.4.3
+streamlit>=1.9.2
