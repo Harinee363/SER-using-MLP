@@ -2,7 +2,8 @@ numpy
 pandas
 matplotlib
 Pillow
-opencv-python-headless<4.5.1.48
+opencv-python-headless
 plotly
-librosa<0.8.0
-tensorflow-cpu<2.4.1
+librosa
+tensorflow-cpu
+bokeh==2.4.3
